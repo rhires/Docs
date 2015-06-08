@@ -5,6 +5,8 @@
 
 .. _index:
 
+test
+
 ASP.NET 5 Documentation
 =======================
 
